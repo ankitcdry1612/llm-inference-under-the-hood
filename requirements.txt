@@ -1,0 +1,5 @@
+# Core requirements for running LLM inference under the hood
+# Lightweight, runnable on any Mac CPU or Apple Silicon without GPU
+
+torch>=2.0.0
+transformers>=4.40.0
