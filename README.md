@@ -38,7 +38,7 @@ No NVIDIA GPU required! All milestones use **SmolLM-135M** (a modern, ultra-comp
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ankit17022/llm-inference-under-the-hood.git
+git clone https://github.com/ankitcdry1612/llm-inference-under-the-hood.git
 cd llm-inference-under-the-hood
 
 # 2. Create and activate a virtual environment
