@@ -85,12 +85,3 @@ Cache Keys & Values in RAM                     Schedule on ~20ms clock ticks
 [05: PagedAttention]                          Evict on <EOS>, Inject new requests
 Map Logical Pages -> Physical Blocks           Zero <pad> waste
 ```
-
----
-
-## 👤 Author
-
-**Ankit Chaudhary**  
-*Distributed Systems Engineer @ Microsoft (Azure Messaging) | ex-Disney+ Hotstar | IIIT Delhi*  
-* [X (Twitter): @ankitcdry](https://x.com/ankitcdry)  
-* [LinkedIn: in/ankit17022](https://www.linkedin.com/in/ankit17022/)
